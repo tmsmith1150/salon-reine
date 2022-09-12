@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {BrowserRouter} from 'react-router-dom';
 import {StrictMode} from 'react';
 import './index.css';
 import App from './App';
@@ -8,7 +9,9 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <StrictMode>
-  <App />
+   <BrowserRouter basename={process.env.PUBLIC_URL}>
+     <App />
+   </BrowserRouter>
 </StrictMode>,
 );
 
