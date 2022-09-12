@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/salon-reine/static/css/main.d086bbf4.css",
-    "main.js": "/salon-reine/static/js/main.39d3c083.js",
-    "static/js/787.ca2c112b.chunk.js": "/salon-reine/static/js/787.ca2c112b.chunk.js",
+    "main.js": "/salon-reine/static/js/main.f261dd99.js",
     "static/media/0.jpg": "/salon-reine/static/media/0.aae354cffe126735c6a7.jpg",
     "static/media/2.jpg": "/salon-reine/static/media/2.73361bef8e26b971e197.jpg",
     "static/media/1.jpg": "/salon-reine/static/media/1.863e6935e38396aecb5d.jpg",
@@ -11,11 +10,10 @@
     "static/media/cover-image.jpg": "/salon-reine/static/media/cover-image.533ae8f6f0bf6c415f11.jpg",
     "index.html": "/salon-reine/index.html",
     "main.d086bbf4.css.map": "/salon-reine/static/css/main.d086bbf4.css.map",
-    "main.39d3c083.js.map": "/salon-reine/static/js/main.39d3c083.js.map",
-    "787.ca2c112b.chunk.js.map": "/salon-reine/static/js/787.ca2c112b.chunk.js.map"
+    "main.f261dd99.js.map": "/salon-reine/static/js/main.f261dd99.js.map"
   },
   "entrypoints": [
     "static/css/main.d086bbf4.css",
-    "static/js/main.39d3c083.js"
+    "static/js/main.f261dd99.js"
   ]
 }
