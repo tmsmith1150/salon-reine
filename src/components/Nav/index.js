@@ -13,11 +13,10 @@ function Nav(props) {
  
   return (
     <header className="flex-row px-1">
-      <h2>
-        <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+      <h1>
+        <a data-testid="link" href="/"> Lake Hollis Photography
         </a>
-      </h2>
+      </h1>
       <nav>
         <ul className="flex-row">
           <li className="mx-2">
